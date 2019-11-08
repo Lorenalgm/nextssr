@@ -8,6 +8,7 @@ const Home = () => (
 		<Head>
 			<title>Home</title>
 		</Head>
+		<img src="/static/batata.jpg" width="200" />
 		<h1>Hi</h1>
 		<Link href="/users">
 		<a>Usuários</a>
